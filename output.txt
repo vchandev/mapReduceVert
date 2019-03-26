@@ -1,4 +1,4 @@
-Top Word Frequencies
+Top 5 Word Frequencies
 4	hotel
 3	bank
 3	airline
