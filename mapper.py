@@ -11,4 +11,4 @@ for line in sys.stdin:
  
 	# Output tuples on stdout
 	for word in words:
-		print '%s\t%s' % (word, "1")
+		print "%s\t%s" % (word, "1")
